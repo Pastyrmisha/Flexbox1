@@ -1,0 +1,16 @@
+чтобы узнать какой шрифт
+текст-панели-панели символов
+
+Montserrat bold
+Regular
+
+[Merriweather]
+[Regular]
+[Bold]
+
+[Raleway]
+[Regular]
+[Medium]
+
+6eeee4 морской волны
+ctrl shift p
